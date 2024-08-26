@@ -25,7 +25,7 @@
         <ourbatis.version>1.0.8</ourbatis.version>
         <noson.version>1.1.4</noson.version>
         <defender.version>1.1.1</defender.version>
-        <swagger.version>2.6.1</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
         <druid.version>1.1.10</druid.version>
         <pageHelper.version>1.2.3</pageHelper.version>
         <main.class>org.nico.byteanimation.Application</main.class>
